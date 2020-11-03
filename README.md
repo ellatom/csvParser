@@ -1,7 +1,7 @@
 <h1>csvParser</h1>
-<div>csv file is a file that represents a table structure in a text format.</div>
+<div>CSV file is a file that represents a table structure in a text format.</div>
 
-<div>for example,</div>
+<div>For example,</div>
 <div>Name, Age, Country</div>
 <div>Omri, 35, Israel </div>
 
