@@ -1,5 +1,5 @@
 <h1>csvParser</h1>
-<div>CSV Parsera csv file is a file that represents a table structure in a text format.</div>
+<div>csv file is a file that represents a table structure in a text format.</div>
 
 <div>for example,</div>
 <div>Name, Age, Country</div>
